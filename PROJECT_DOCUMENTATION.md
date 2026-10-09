@@ -59,18 +59,30 @@ The analyzed results are saved in `student_performance_report.csv`.
 
 The program successfully analyzed 20 students.
 
-**Observed output summary:**
-- Total students: 20
-- Passed students: 18
-- Failed students: 2
-- Class average: 73.25
-- Best-performing subject: Statistics
-- Lowest-performing subject: Python
-- High performers: 8
-- Average performers: 7
-- Low performers: 5
+**Observed Output Summary:**
 
-**Screenshot:** Insert a screenshot of the program output here.
+* Total students: 20
+* Passed students: 18
+* Failed students: 2
+* Class average: 73.25
+* Best-performing subject: Statistics
+* Lowest-performing subject: Python
+* High performers: 8
+* Average performers: 7
+* Low performers: 5
+
+**Screenshots:**
+
+1. **Student Performance Report:** Shows the students’ totals, averages, grades, pass/fail results, and performance categories.
+
+   * Screenshot file: `output_screenshot_1.png`
+
+2. **Analytics Summary:** Shows the class average, subject-wise averages, top 3 students, and performance category counts.
+
+   * Screenshot file: `output_screenshot_2.png`
+
+
+
 
 ## 8. Final Outcome
 
